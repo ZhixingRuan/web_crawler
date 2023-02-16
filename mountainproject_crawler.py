@@ -22,4 +22,4 @@ for v in grade:
     data['grade'].append(v.get_text())
 
 df = pd.DataFrame(data)
-df.to_csv('cater_lake_classic_problems.csv')
+df.to_csv('carter_lake_classic_problems.csv')
